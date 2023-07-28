@@ -10,6 +10,7 @@ public class Main {
 
         // Auto Deportivo
         AutoDeportivo AutoDeportivo1 = new AutoDeportivo();
+        System.out.println("getAnioFabricacion " + AutoDeportivo1.getAnioFabricacion());
 
         // Programador
         Persona Programador1 = new Programador("Alfonso", "MO", 123456, 36);
